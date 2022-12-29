@@ -71,9 +71,9 @@ selenium==3.141.0
 #snakebite[kerberos]==2.11.0
 #snakebite==2.11.0
 
-thrift-sasl==0.2.1
-thrift==0.9.3
-thriftpy==0.3.9
+#thrift-sasl==0.2.1
+#thrift==0.9.3
+#thriftpy==0.3.9
 toml==0.10.0
 xmltodict==0.10.2
 yamllint==1.15.0
